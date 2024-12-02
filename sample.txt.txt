@@ -1,0 +1,4 @@
+Name = Sam Fitz
+class = class 6
+desired income = $400K
+country: colombia
